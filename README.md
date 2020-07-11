@@ -6,8 +6,7 @@
 <div>	
 	<h3>
 	<a href="https://coursera.org/share/185855c2d767a503ed29c7cb51bf05a4">Front-End Web UI Frameworks and Tools: Bootstrap 4</a>
-	<p>I'd learned Bootstrap grids and responsive design, Bootstrap CSS and JavaScript components. Also CSS preprocessors, Less, Sass, basics of Node.js and NPM.
-	I'd used Bootstrap grids and responsive design, Bootstrap CSS and JavaScript components. Also CSS preprocessors, Less, Sass, basics of Node.js and NPM.Atlast but not the 	  least, Javascript task runner Grunt and Gulp and many more.
+	<p>I'd learned Bootstrap grids and responsive design, Bootstrap CSS and JavaScript components. Also CSS preprocessors like Less & Sass, basics of Node.js and NPM. Atlast but not the least, Javascript task runner Grunt and Gulp and many more.
 	</p>
 	</h3>
 	<br>
